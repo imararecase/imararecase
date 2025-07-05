@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imararecase&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="imararecase" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imararecase&" alt="imararecase" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=imararecase&theme=nightowl&hide_border=true" alt="imararecase" /></p>
 
-![](https://github-readme-stats.vercel.app/api?username=imararecase&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=imararecase&theme=nightowl&hide_border=true)<br/>
+
+
