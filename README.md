@@ -1,14 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Daniela👋
 
 ### 🌱 About Me
 
 <table>
   <tr>
     <td>
-I'm a curious and motivated junior developer with an interest in learning new technologies and creating innovative solutions. I’ve worked on personal and academic projects that have allowed me to apply and strengthen my knowledge in software development, both frontend and backend. I enjoy taking on challenges that help me grow every day in the world of development.
+I'm a curious and motivated junior developer with an interest in learning new technologies and creating innovative solutions. I’ve worked on personal and academic projects that have allowed me to apply and strengthen my knowledge in software development, both **frontend** and **backend**. I enjoy taking on challenges that help me grow every day in the world of development.
 </td>
     <td>
-Soy una desarrolladora junior motivada y curiosa, con interés en aprender nuevas tecnologías y crear soluciones innovadoras. He desarrollado proyectos personales y académicos que me han permitido aplicar y fortalecer mis conocimientos en desarrollo de software, tanto en frontend como en backend. Disfruto asumir desafíos que me ayuden a seguir creciendo día a día en el mundo del desarrollo.
+Soy una desarrolladora junior motivada y curiosa, con interés en aprender nuevas tecnologías y crear soluciones innovadoras. He desarrollado proyectos personales y académicos que me han permitido aplicar y fortalecer mis conocimientos en desarrollo de software, tanto en **frontend** como en **backend**. Disfruto asumir desafíos que me ayuden a seguir creciendo día a día en el mundo del desarrollo.
 </td>
   </tr>
 </table>
@@ -33,7 +33,9 @@ Soy una desarrolladora junior motivada y curiosa, con interés en aprender nueva
 
 <br/>
 
-Thanks for visiting my profile! 🌟
+<p align="center">
+  Thanks for visiting my profile! 🌟 | ¡Gracias por visitar mi perfil! ✨
+</p>
 
 
 
