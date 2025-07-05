@@ -35,9 +35,9 @@ Soy una desarrolladora junior motivada y curiosa, con interés en aprender nueva
 
 <br/>
 
-<p align="center">
-  <h3>Thanks for visiting my profile! 🌟 | ¡Gracias por visitar mi perfil! ✨</h3>
-</p>
+<div align="center">
+  <h3>Thanks for visiting my profile! 🌟  |  ¡Gracias por visitar mi perfil! ✨</h3>
+</div>
 
 
 
