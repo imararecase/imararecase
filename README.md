@@ -51,7 +51,7 @@ Soy una desarrolladora junior motivada y curiosa, con interés en aprender nueva
   </table>
 </div>
 
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 
 <div align="center">
   <table>
