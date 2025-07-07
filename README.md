@@ -60,7 +60,7 @@ Soy una desarrolladora junior motivada y curiosa, con interés en aprender nueva
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imararecase&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
       </td>
       <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=imararecase&theme=nightowl&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-stats.vercel.app/api?username=imararecase&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
@@ -104,7 +104,10 @@ I'm a passionate starting developer, eager to learn and grow every day. While I 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imararecase&label=Profile%20views&color=0e75b6&style=flat" alt="imararecase" /> </p>
 
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=imararecase&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=imararecase&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imararecase&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 # 💻 Tech Stack:
