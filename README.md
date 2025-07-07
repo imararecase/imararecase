@@ -1,4 +1,8 @@
-## Hi there, I'm Daniela👋
+## Hello, imararecase here 👋
+
+<p align="left">My name is Daniela. Nice to meet you!</p>
+
+###
 
 ### 🌱 About Me
 
@@ -89,6 +93,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p align="left">My name is Daniela, junior developer.</p> 
 
 # 💫 About Me:
 I'm a passionate starting developer, eager to learn and grow every day. While I haven't had professional experience yet, I truly enjoy coding and constantly improving my skills. I believe that with the right opportunity, I can show what I'm capable of!
