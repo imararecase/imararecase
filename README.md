@@ -1,8 +1,7 @@
 ## Hello, imararecase here 👋
 
 <p align="left">My name is Daniela. Nice to meet you!</p>
-
-###
+---
 
 ### 🌱 About Me
 
