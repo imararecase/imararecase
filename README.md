@@ -1,7 +1,6 @@
 ## Hello, imararecase here 👋
 
-<p align="left">My name is Daniela. Nice to meet you!</p>
----
+<p align="left">My name is Daniela🪐 Nice to meet you!</p>
 
 ### 🌱 About Me
 
@@ -72,7 +71,7 @@ Soy una desarrolladora junior motivada y curiosa, con interés en aprender nueva
 <br/>
 
 <div align="center">
-  <h3>Thanks for visiting my profile! 🌟   |   ¡Gracias por visitar mi perfil! ✨</h3>
+  <h3>Thanks for visiting my profile! 🌟 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ¡Gracias por visitar mi perfil! ✨</h3>
 </div>
 
 
